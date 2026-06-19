@@ -1,0 +1,15 @@
+# Ortam değişkenleri ve sırlar
+.env
+.env.local
+
+# Bağımlılıklar
+node_modules/
+
+# Üretilen veriler / görseller
+data/
+*.log
+
+# OS / editör
+.DS_Store
+Thumbs.db
+.vscode/
