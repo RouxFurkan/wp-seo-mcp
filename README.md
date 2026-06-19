@@ -13,8 +13,8 @@
 
 | | |
 |---|---|
-| **Ad Soyad** | {AD_SOYAD} |
-| **Öğrenci No** | {OGRENCI_NO} |
+| **Ad Soyad** | Furkan Yeşlirmak |
+| **Öğrenci No** | 24010509041 |
 | **Ders** | CPP214 |
 
 ---
@@ -80,7 +80,7 @@ wp-seo-mcp/
 
 ### 1. Projeyi Klonla ve Bağımlılıkları Yükle
 ```bash
-git clone {GITHUB_LINK}
+git clone https://github.com/RouxFurkan/wp-seo-mcp
 cd wp-seo-mcp
 npm install
 ```
@@ -169,7 +169,7 @@ Sistem sırasıyla: `generate_blog_post` → `analyze_seo` → `generate_image` 
 
 ## 🔗 GitHub Proje Bağlantısı
 
-{GITHUB_LINK}
+https://github.com/RouxFurkan/wp-seo-mcp
 
 ---
 
